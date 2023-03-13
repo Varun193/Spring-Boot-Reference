@@ -10,3 +10,4 @@ A curated list of Spring boot articles or blogs.
 
 # interview prep
 * [Spring Boot Interview Questions ](https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/)
+* [Top 40 Spring Boot Interview Questions 2023](https://www.softwaretestinghelp.com/spring-boot-interview-questions/)
