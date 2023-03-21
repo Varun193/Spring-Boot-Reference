@@ -14,3 +14,4 @@ A curated list of Spring boot articles or blogs.
 # interview prep
 * [Spring Boot Interview Questions ](https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/)
 * [Top 40 Spring Boot Interview Questions 2023](https://www.softwaretestinghelp.com/spring-boot-interview-questions/)
+* [Top 10 Microservices Design Principles and Best Practices for Experienced Developers](https://medium.com/javarevisited/10-microservices-design-principles-every-developer-should-know-44f2f69e960f)
