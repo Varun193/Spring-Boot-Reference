@@ -8,6 +8,9 @@ A curated list of Spring boot articles or blogs.
 # Articles
 * [Spring boot and Micro-Services](https://javatodev.com/list-of-articles/)
 
+# Spring Security
+* [Spring Security: Authentication and Authorization In-Depth](https://www.marcobehler.com/guides/spring-security#_common_exploit_protections)
+
 # interview prep
 * [Spring Boot Interview Questions ](https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/)
 * [Top 40 Spring Boot Interview Questions 2023](https://www.softwaretestinghelp.com/spring-boot-interview-questions/)
