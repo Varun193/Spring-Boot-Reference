@@ -11,6 +11,7 @@ A curated list of Spring boot articles or blogs.
 # Spring Security
 * [Spring Security: Authentication and Authorization In-Depth](https://www.marcobehler.com/guides/spring-security#_common_exploit_protections)
 * [How does Spring Security work internally ?](https://medium.com/@haytambenayed/how-does-spring-security-work-internally-525d359d7af)
+* [Implementing JWT with Spring Boot and Spring Security](https://medium.com/@xoor/jwt-authentication-service-44658409e12c)
 
 # interview prep
 * [Spring Boot Interview Questions ](https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/)
