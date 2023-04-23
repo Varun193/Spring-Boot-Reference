@@ -17,6 +17,7 @@ A curated list of Spring boot articles or blogs.
 
 # Docker
 * [Docker for begineers](https://medium.com/codingthesmartway-com-blog/docker-beginners-guide-part-1-images-containers-6f3507fffc98)
+* [Build a Docker image using Maven and Spring Boot](https://medium.com/swlh/build-a-docker-image-using-maven-and-spring-boot-58147045a400)
 
 # interview prep
 * [Spring Boot Interview Questions ](https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/)
