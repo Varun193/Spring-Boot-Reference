@@ -24,3 +24,7 @@ A curated list of Spring boot articles or blogs.
 * [Top 40 Spring Boot Interview Questions 2023](https://www.softwaretestinghelp.com/spring-boot-interview-questions/)
 * [Top 10 Microservices Design Principles and Best Practices for Experienced Developers](https://medium.com/javarevisited/10-microservices-design-principles-every-developer-should-know-44f2f69e960f)
 * [Secure Your Microservices Architecture](https://www.okta.com/resources/whitepaper/8-ways-to-secure-your-microservices-architecture/)
+
+# Medium Article
+
+* [How We Improved MySQL Performance at Intuit’s Batch Processing Platform (BPP)!](https://athityakumar.medium.com/how-we-improved-mysql-performance-at-intuits-batch-processing-platform-bpp-2780c11ccc57)
