@@ -1,6 +1,11 @@
 # Spring boot help
 A curated list of Spring boot articles or blogs.
 
+# Java
+
+* [JVM Introduction](https://www.developer.com/java/java-virtual-machine/)
+
+
 
 * [Use Of Spring-boot Starter parent](https://www.geeksforgeeks.org/spring-boot-starter-parent/)
 * [Spring Boot Packaging](https://www.javatpoint.com/spring-boot-packaging)
